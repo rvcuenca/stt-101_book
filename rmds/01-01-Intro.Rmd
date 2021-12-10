@@ -12,7 +12,7 @@ _“Every purpose is established by counsel: and with good advice make war.” -
 knitr::include_graphics("images/germany-poland.png")
 ```
 
-No successful organization has ever ignored the power of information. It is not an exaggeration to say that the rise and fall of a nation is highly related on the quantity and quality (in terms of accuracy and recency^[The state or quality of being recent; newness; new state; freshness]) of information it possess. A historic example for this is the defeat of the Nazis during the World War II when their encrypted top-secret messages, called [Enigma codes](https://www.britannica.com/topic/Enigma-German-code-device){target="_blank"}, had been intercepted by Poland prior to the war. Through the help of British's secret code-breaking group known as [Ultra](https://en.wikipedia.org/wiki/Ultra) under mathematician [Alan M. Turing](https://en.wikipedia.org/wiki/Alan_Turing), the codes had been decrypted and had become a valuable source of intelligence during the war. Moreover, since the Enigma codes had been shared by the Nazis to the Japanese, the information gathered by Ultra had contributed to the victory of [Allied forces](https://en.wikipedia.org/wiki/Allies_of_World_War_II) against the [Axis](https://en.wikipedia.org/wiki/Axis_powers) in the Pacific. 
+No successful organization has ever ignored the power of information. It is not an exaggeration to say that the rise and fall of a nation is highly related on the quantity and quality (in terms of accuracy and recency^[The state or quality of being recent; newness; new state; freshness]) of information it possess. A historic example for this is the defeat of the Nazis during the World War II when their encrypted top-secret messages, called [Enigma codes](https://www.britannica.com/topic/Enigma-German-code-device){target="_blank"}, had been intercepted by Poland prior to the war. Through the help of British's secret code-breaking group known as [Ultra](https://en.wikipedia.org/wiki/Ultra){target="_blank"} under mathematician [Alan M. Turing](https://en.wikipedia.org/wiki/Alan_Turing){target="_blank"}, the codes had been decrypted and had become a valuable source of intelligence during the war. Moreover, since the Enigma codes had been shared by the Nazis to the Japanese, the information gathered by Ultra had contributed to the victory of [Allied forces](https://en.wikipedia.org/wiki/Allies_of_World_War_II){target="_blank"} against the [Axis](https://en.wikipedia.org/wiki/Axis_powers){target="_blank"} in the Pacific. 
 
 ```{r out.width='50%', fig.align='center', echo=FALSE, fig.cap="(Left) Alan Turing; (Right) Enigma Machine"}
 knitr::include_graphics("images/enigma-turing.png")
@@ -22,6 +22,8 @@ Poland would have never been successful in intercepting the Enigma codes prior t
 
 
 ## Information vs. Data
+
+As pointed out 
 
 Proper information is needed to perform various management functions, utilise many management techniques (such as SWOT analysis, PEST analysis), prepare strategic decisions. So it is important to prepare and maintain efficient information system within the organization
 

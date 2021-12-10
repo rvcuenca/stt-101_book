@@ -1,5 +1,7 @@
+fig:unnamed-chunk-2
 introduction
 the-power-of-information
+information-vs.-data
 methods-of-data-collection
 tabular-and-graphical-presentations-of-data
 numerical-description-of-data

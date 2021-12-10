@@ -8,11 +8,27 @@ _“Every purpose is established by counsel: and with good advice make war.” -
 
 ## The Power of Information
 
+```{r out.width='40%', out.extra='style="float:right; padding:5px"', echo=FALSE}
+knitr::include_graphics("images/germany-poland.png")
+```
+
 No successful organization has ever ignored the power of information. It is not an exaggeration to say that the rise and fall of a nation is highly related on the quantity and quality (in terms of accuracy and recency^[The state or quality of being recent; newness; new state; freshness]) of information it possess. A historic example for this is the defeat of the Nazis during the World War II when their encrypted top-secret messages, called Enigma codes, had been intercepted by Poland prior to the war. Through the help of British's secret code-breaking group known as Ultra under mathematician Alan M. Turing, the codes had been decrypted and had become a valuable source of intelligence during the war. Moreover, since the Enigma codes had been shared by the Nazis to the Japanese, the information gathered by Ultra had contributed to the victory of Allied forces against the Axis in the Pacific. 
+
+```{r out.width='50%', fig.align='center', echo=FALSE, fig.cap="(Left) Alan Turing; (Right) Enigma Machine"}
+knitr::include_graphics("images/enigma-turing.png")
+```
 
 Poland would have never been successful in intercepting the Enigma codes prior to the war if it were not for their good _information gathering_. Alan Turing and the other Ultra members would not have been successful in cracking the codes if it were not for the right _information processing_. Lastly, the Allied forces would have not been victorious if it were not for the right _information communication_ as the Ultra group shared the decryption process they've learned. War commentators have claimed that this information flow, with the Ultra at it's core, had substantially shorted the war and could possibly resulted to a different aftermath [@keegan2003intelligence].
 
-Efficiency and effectiveness of each decision are highly dependent on both the quality and quantity of information.
+
+## Information vs. Data
+
+Proper information is needed to perform various management functions, utilise many management techniques (such as SWOT analysis, PEST analysis), prepare strategic decisions. So it is important to prepare and maintain efficient information system within the organization
+
+
+
+
+<!-- Efficiency and effectiveness of each decision are highly dependent on both the quality and quantity of information. -->
 
 <!-- The most common definition of information is that it is data which is organized and specified for certain purpose, is accurate and timely, in a context which gives it value and importance and can possibly lead to widening of understanding on a subject or decrease uncertainty. Importance of information lies within a fact that it can affect decision making, behaviour or an outcome of certain event. For example, on a stock exchange if there is an information of company reporting significant decrease in profits the price of shares is falling not because of decrease itself but because of the information of it which causes share owners to sell their shares causing the decrease in price. -->
 

@@ -14,7 +14,7 @@ description: |
   This is a bookdown online book for the course STT101 of MSU-IIT.
 github-repo: rvcuenca/rvcuenca/stt-101_book
 url: https://github.com/rvcuenca/stt-101_book
-cover-image: images/stt101_logo.png
+cover-image: images/stt101_logo_s.png
 favicon: images/favicon.ico
 ---
 

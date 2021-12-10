@@ -2,7 +2,7 @@
 title: "STT101: Descriptive and Inferential Statistics"
 author: 
   - __Rey R. Cuenca__^[MSU-Iligan Institute of Technology, rey.cuenca@g.msuiit.edu.ph]
-date: "__Created:__ 2021-12-09; __Updated:__ 2021-12-10 10:27:00"
+date: "__Created:__ 2021-12-09; __Updated:__ 2021-12-10 11:04:54"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: 
@@ -14,7 +14,7 @@ description: |
   This is a bookdown online book for the course STT101 of MSU-IIT.
 github-repo: rvcuenca/rvcuenca/stt-101_book
 url: https://github.com/rvcuenca/stt-101_book
-cover-image: images/stt101_logo.png
+cover-image: images/stt101_logo_s.png
 favicon: images/favicon.ico
 ---
 

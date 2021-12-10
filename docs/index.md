@@ -2,7 +2,7 @@
 title: "STT101: Descriptive and Inferential Statistics"
 author: 
   - Rey R. Cuenca^[MSU-Iligan Institute of Technology, rey.cuenca@g.msuiit.edu.ph]
-date: "Created 2021-12-09 (Last updated 2021-12-10)"
+date: "Created 2021-12-09 (Last updated 2021-12-10 09:28:55)"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: 

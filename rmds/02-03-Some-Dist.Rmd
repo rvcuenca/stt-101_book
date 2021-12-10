@@ -1,0 +1,8 @@
+# Some Probability Distributions
+
+```{r 02-03-01, child=c('02-03-01-Discrete-Dist.Rmd')}
+```
+
+```{r 02-03-02, child=c('02-03-02-Continuous-Dist.Rmd')}
+```
+

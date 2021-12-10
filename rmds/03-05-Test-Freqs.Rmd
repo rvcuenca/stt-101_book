@@ -1,0 +1,8 @@
+# Test Involving Frequency Data
+
+```{r 03-05-01, child=c('03-05-01-Test-Indep.Rmd')}
+```
+
+```{r 03-05-02, child=c('03-05-02-GOF-Test.Rmd')}
+```
+

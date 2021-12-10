@@ -1,0 +1,14 @@
+# Tests Concerning Means
+
+```{r 03-02-01, child=c('03-02-01-One-Mean.Rmd')}
+```
+
+```{r 03-02-02, child=c('03-02-02-Two-Means-Indep.Rmd')}
+```
+
+```{r 03-02-03, child=c('03-02-03-Two-Means-Depen.Rmd')}
+```
+
+```{r 03-02-04, child=c('03-02-04-ANOVA.Rmd')}
+```
+

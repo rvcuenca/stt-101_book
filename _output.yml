@@ -1,0 +1,26 @@
+bookdown::gitbook:
+  highlight: tango  # kate # breezedark, zenburn, kate, espresso
+  css: assets/style.css
+  config:
+    toc:
+      collapse: section
+      before: |
+        <li class="toc-logo"><a href="./"><img src="images/stt101_logo.png"></a></li>
+      after: |
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+    edit: 
+      link: https://github.com/rvcuenca/stt-101_book/edit/main/%s
+      text: "Suggest an edit"
+    toolbar: 
+      position: 
+    download: ["rmd"]
+  # includes:
+  #   in_header: header.html
+#     download: ["pdf", "epub"]
+# bookdown::pdf_book:
+#   includes:
+#     in_header: preamble.tex
+#   latex_engine: xelatex
+#   citation_package: natbib
+#   keep_tex: yes
+# bookdown::epub_book: default

@@ -1,0 +1,15 @@
+# (PART\*) Descriptive Statistics {-}
+
+```{r 01-01, child=c('rmds/01-01-Intro.Rmd')}
+```
+
+```{r 01-02, child=c('rmds/01-02-Data-Collection.Rmd')}
+```
+
+```{r 01-03, child=c('rmds/01-03-Data-Presentation.Rmd')}
+```
+
+```{r 01-04, child=c('rmds/01-04-Data-Description.Rmd')}
+```
+
+

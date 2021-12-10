@@ -1,0 +1,12 @@
+# (PART\*) Basic Statistical Modeling {-}
+
+
+```{r 04-01, child=c('rmds/04-01-SL-Regression.Rmd')}
+```
+
+```{r 04-02, child=c('rmds/04-02-Correlation-Analysis.Rmd')}
+```
+
+```{r 04-03, child=c('rmds/04-03-ANOVA-Regression.Rmd')}
+```
+

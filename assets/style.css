@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:400,400i,700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Prata&display=swap');
+
+
+.book .font-family-1 {
+  font-family: 'Muli', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Prata', serif;
+  color: #2f5275;
+}
+
+.title {
+  font-family: 'Prata', serif;
+  font-size: 3em !important;
+  color: #5699cc;
+ }
+
+.subtitle {
+  font-family: 'Prata', serif;
+  color: #2c6793;
+}
+
+summary {
+  color: #b502c9;
+}
+/*--- LOGO ---*/
+
+.toc-logo {
+  width: 200px !important;
+  object-fit: contain;
+  margin: 0 auto;
+  display: block;
+}
+
+.toc-logo img {
+  max-width: 100%;
+  margin-bottom: 10px;
+}
+
+.summary > li:first-child {
+  height: auto !important; 
+}
+
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}

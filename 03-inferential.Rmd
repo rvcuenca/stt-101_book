@@ -1,0 +1,18 @@
+# (PART\*) Inferential Statistics {-}
+
+
+```{r 03-01, child=c('rmds/03-01-Estimation.Rmd')}
+```
+
+```{r 03-02, child=c('rmds/03-02-Test-Means.Rmd')}
+```
+
+```{r 03-03, child=c('rmds/03-03-Test-Proportions.Rmd')}
+```
+
+```{r 03-04, child=c('rmds/03-04-Test-Variances.Rmd')}
+```
+
+```{r 03-05, child=c('rmds/03-05-Test-Freqs.Rmd')}
+```
+

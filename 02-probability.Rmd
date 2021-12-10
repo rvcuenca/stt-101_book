@@ -1,0 +1,12 @@
+# (PART\*) Probability and Distributions {-}
+
+
+```{r 02-01, child=c('rmds/02-01-Counting-Techniques.Rmd')}
+```
+
+```{r 02-02, child=c('rmds/02-02-Prob-Intro.Rmd')}
+```
+
+```{r 02-03, child=c('rmds/02-03-Some-Dist.Rmd')}
+```
+

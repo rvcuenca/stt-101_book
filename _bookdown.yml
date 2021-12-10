@@ -1,0 +1,18 @@
+rmd_files:
+  html:
+  - index.Rmd
+  - 00-Contents.Rmd
+  - 01-descriptive.Rmd
+  - 02-probability.Rmd
+  - 03-inferential.Rmd
+  - 04-modeling.Rmd
+  - 05-references.Rmd
+  # - appendix.Rmd 
+output_dir: docs
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "
+new_session: true
+
+

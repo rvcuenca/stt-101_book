@@ -1,3 +1,3 @@
 Welcome! 
 
-This is a sample template for the online course book of STT subjects in MSU-Iligan Institute of Technology.
+This is an online course book for STT101 of MSU-Iligan Institute of Technology.

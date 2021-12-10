@@ -1,7 +1,5 @@
 introduction
 the-power-of-information
-the-importance-of-data-in-decision-making
-impact-of-information-on-decision-making
 methods-of-data-collection
 tabular-and-graphical-presentations-of-data
 numerical-description-of-data
